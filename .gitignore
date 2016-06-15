@@ -35,3 +35,7 @@ local.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+libs/
+src/main/res/drawable/
+.idea/copyright/
+app/src/main/res/drawable/
